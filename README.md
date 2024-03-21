@@ -1,7 +1,7 @@
 This README file is for ICSE 2025 Submission, we will provide all scripts we used in analysis, all results we collected during manual annotation, and the complete tables and figures that are presetned particially or not have space to be presented in the paper.
 
 # data
-This folder contains the raw, interim and processed data we gathered during analysis, which will be used in our scripts. 
+This folder contains the interim and processed data we gathered during analysis, which will be used in our scripts. 
 
 # device-configuration
 This folder contains the detailed infomation of settings we employed for our eyetracking and fNIRs devices.
