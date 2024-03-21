@@ -1,4 +1,4 @@
-This README file is for ICSE 2025 Submission, we will provide all scripts we used in analysis, all results we collected during manual annotation, and the complete tables and figures that are presetned particially or not have space to be presented in the paper.
+This repository is provided as the replication package for the ICSE 2025 Submission. We provide all scripts we used in analysis, all results we collected during manual annotation, and the complete tables and figures that are presetned particially or not have space to be presented in the paper due to the page limitation.
 
 # data
 This folder contains the interim and processed data we gathered during analysis, which will be used in our scripts. 
