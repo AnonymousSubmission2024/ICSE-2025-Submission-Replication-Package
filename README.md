@@ -22,7 +22,7 @@ These two folders contains all scripts that we used to perform the analysis cond
 ## pattern-characteristics-examples
 This folder contains the figures of examples to show the opitons of each characterisrtic that we identified during the manual annotation.
 ## tables
-This folder consists of the complete tables that we might not get the change to shown in the paper due to space limitation:
+This folder consists of the complete tables that we might not get the change to shown in the paper due to space limitation:.
 
 
 
